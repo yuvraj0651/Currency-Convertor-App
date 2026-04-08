@@ -20,7 +20,6 @@ A modern Currency Converter application that allows users to convert currencies 
 - 🔍 Easy currency selection dropdown
 - ⚡ Fast and optimized API calls
 - 📱 Fully responsive UI
-- 🌙 Dark mode support
 
 ---
 
