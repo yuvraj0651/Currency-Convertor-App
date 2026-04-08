@@ -1,4 +1,4 @@
-# 💱 Currency Converter App 🚀
+# 💱 Currency Converter App 
 
 ## 📌 Overview
 A modern Currency Converter application that allows users to convert currencies in real-time using live exchange rates. Designed with a clean UI and efficient data handling to simulate real-world financial tools.
