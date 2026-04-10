@@ -1,4 +1,7 @@
 # 💱 Currency Converter App 
+![Currency-Convertor](https://github.com/user-attachments/assets/c73216b8-7b06-48c0-a3a2-e2e35fb523f1)
+
+---
 
 ## 📌 Overview
 A modern Currency Converter application that allows users to convert currencies in real-time using live exchange rates. Designed with a clean UI and efficient data handling to simulate real-world financial tools.
@@ -49,6 +52,11 @@ A modern Currency Converter application that allows users to convert currencies 
 - 🔔 Rate alerts and notifications
 - 🌐 Multi-language support
 - 💾 Offline caching for last rates
+
+---
+
+## 🔗 Live Demo  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://forex-convertify.netlify.app/)
 
 ---
 
